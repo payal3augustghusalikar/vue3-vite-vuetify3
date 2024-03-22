@@ -1,0 +1,21 @@
+{
+  "name": "vite-vuetify3-vue3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.21",
+    "@mdi/font": "^7.4.47",
+    "vite-plugin-vuetify": "^2.0.3",
+    "vuetify": "^3.5.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}

@@ -1,2 +1,6 @@
-# vue3-vite-vuetify3
-This is test repository
+# Vue 3 + Vite
+This is test project
+
+1. In terminal 
+    npm install
+    npm run dev
